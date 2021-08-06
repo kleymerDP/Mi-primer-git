@@ -32,7 +32,7 @@ try {
 };
 
 // forma2
-/*
+
 function newMap2(obj) {
     const getObject = obj;
 
@@ -43,9 +43,7 @@ try {
     newMap(planets);
 } catch (error) {
     console.error(error);
-};
-
-*/
+}
 
 
 
